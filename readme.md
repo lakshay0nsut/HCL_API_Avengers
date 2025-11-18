@@ -1,12 +1,12 @@
 HEALTHIFY
-# 🏥 Healthcare Wellness & Preventive Care Portal
+#  Healthcare Wellness & Preventive Care Portal
 
 A full-stack web application designed to help patients track wellness goals, manage preventive care, and enable healthcare providers to monitor patient compliance.  
-Built as part of a **5-hour hackathon challenge**.
+
 
 ---
 
-## 📌 1. Business Use Case
+##  1. Business Use Case
 
 Develop a **Healthcare Wellness and Preventive Care Portal** that integrates seamless frontend and backend functionality, enabling:
 
@@ -18,7 +18,7 @@ Develop a **Healthcare Wellness and Preventive Care Portal** that integrates sea
 
 ---
 
-## 🎯 2. Scope for 5-Hour MVP
+##  2. Scope
 
 The MVP focuses on delivering key modules demonstrating:
 
@@ -32,7 +32,7 @@ The MVP focuses on delivering key modules demonstrating:
 
 ---
 
-## 🧩 3. Key Features Implemented
+##  3. Key Features Implemented
 
 ### **1. Secure Authentication System**
 - Login & registration for patients and healthcare providers  
@@ -88,7 +88,7 @@ The MVP focuses on delivering key modules demonstrating:
 
 ---
 
-## 🛠 4. Tech Stack
+## 4. Tech Stack
 
 ### **Frontend**
 - React.js / Next.js  
@@ -103,13 +103,11 @@ The MVP focuses on delivering key modules demonstrating:
 - MongoDB Atlas / Firestore  
 
 ### **DevOps**
-- Vercel (Frontend)  
-- Render / Railway (Backend)  
-- GitHub Actions (CI/CD)  
+- Render (frontend/backend)
 
 ---
 
-## 🏗 5. System Architecture
+##  5. System Architecture
 
 ```
 Frontend (React/Next.js)
@@ -158,9 +156,9 @@ project/
 
 ---
 
-## 👥 7. Team Division (4 Members)
+##  7. Team Division (4 Members)
 
-### 👤 **Member 1 – Frontend Lead**
+###  **Aarti – Frontend Lead**
 - Login & Register pages  
 - Dashboard UI  
 - Public Info Page  
@@ -168,7 +166,7 @@ project/
 
 ---
 
-### 👤 **Member 2 – Backend Lead**
+###  **Shubham – Backend Lead**
 - Authentication APIs (JWT + hashing)  
 - Patient & Provider APIs  
 - Goal tracking APIs  
@@ -176,7 +174,7 @@ project/
 
 ---
 
-### 👤 **Member 3 – Integration & DevOps**
+###  **Lakshay – Integration & DevOps**
 - Connect frontend ↔ backend (Axios)  
 - Role-based routing  
 - Deploy frontend (Vercel) & backend (Render/Railway)  
@@ -185,7 +183,7 @@ project/
 
 ---
 
-### 👤 **Member 4 – Core Features & Compliance**
+###  **Akshita – Core Features & Compliance**
 - Profile Management module  
 - Goal Tracker UI + integration  
 - Logging system  
@@ -193,43 +191,3 @@ project/
 - Documentation & final presentation  
 
 ---
-
-## ▶️ 8. Run the Project Locally
-
-### **Backend**
-```bash
-cd backend
-npm install
-npm start
-```
-
-### **Frontend**
-```bash
-cd frontend
-npm install
-npm start
-```
-
-### **Environment Variables**
-```
-JWT_SECRET=<your-secret>
-MONGO_URI=<your-database-url>
-```
-
----
-
-## 📸 9. Mockups / Screenshots
-
-_Add the following screenshots:_
-- Login Page  
-- Dashboard  
-- Goal Tracker  
-- Provider View  
-- Public Health Info Page  
-
----
-
-## 🏁 10. Conclusion
-
-This MVP demonstrates a secure, scalable, and user-focused preventive healthcare platform, fulfilling all mandatory requirements within the hackathon’s limited timeframe.
-
