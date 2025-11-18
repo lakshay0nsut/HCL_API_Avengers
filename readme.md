@@ -1,4 +1,4 @@
-HEALTHIFY
+## HEALTH BUDDY
 #  Healthcare Wellness & Preventive Care Portal
 
 A full-stack web application designed to help patients track wellness goals, manage preventive care, and enable healthcare providers to monitor patient compliance.  
